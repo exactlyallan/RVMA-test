@@ -1,2 +1,2 @@
 # RVMA-test
-RAPIDS changelog site
+RAPIDS changelog site prototype.
